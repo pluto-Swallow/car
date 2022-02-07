@@ -1,0 +1,27 @@
+,,,,,,编号(唯一值),Car_ID
+,,,,,,它指定的保险风险评级，值+3（风险）至-3（安全）,Symboling
+行标签,计数项:enginetype,,,,,车量型号,carCompany
+4150,5,,,,,汽车燃料类型，即汽油或柴油,fueltype
+4200,5,,,,,吸尘,aspiration
+4250,3,,,,,车内门数,doornumber
+4350,4,,,,,车型,carbody
+4400,3,,,,,驱动轮类型,drivewheel
+4500,7,,,,,发动机位置,enginelocation
+4650,1,,,,,汽车轴距,wheelbase
+4750,4,,,,,车长,carlength
+4800,36,,,,,车宽,carwidth
+4900,1,,,,,车高,carheight
+5000,27,,,,,车身重量,curbweight
+5100,5,,,,,引擎类型,enginetype
+5200,23,,,,,汽车气（油）缸数量,cylindernumber
+5250,7,,,,,发动机大小,enginesize
+5300,1,,,,,燃油系统,fuelsystem
+5400,13,,,,,行程缸径比（判断发动机高低速）,boreratio
+5500,37,,,,,发动机内部的冲程或体积,stroke
+5600,1,,,,,汽车压缩比,compressionratio
+5750,1,,,,,汽车马力,horsepower
+5800,7,,,,,峰值转速,peakrpm
+5900,3,,,,,城市里程,citympg
+6000,9,,,,,高速公路里程,highwaympg
+6600,2,,,,,价格,price(Dependent variable)
+总计,205,,,,,,
